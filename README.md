@@ -7,3 +7,6 @@ Built based on https://github.com/jdibenes/hl2ss
 2. Change Publisher, Topic, and Frame ID name if needed.
 3. Run hl2ss first in Hololens 2.
 4. Run imu2ROS.py 
+
+Acknowledgments
+This project is based on hl2ss by jdibenes, which is licensed under the MIT License. Significant modifications and additions have been made to suit the requirements of this project.
